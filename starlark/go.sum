@@ -1,0 +1,4 @@
+github.com/canonical/starlark v0.0.0-20250617110226-9289a36db04e h1:HgyE8DT1YgUGNMySe3rYu3xlHebuSKTEvbSzDhrDjBg=
+github.com/canonical/starlark v0.0.0-20250617110226-9289a36db04e/go.mod h1:fbhY9i7ZAcza52PfUCd9PDIBFJJMYsAj22/3Q3sU6IY=
+golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 h1:0A+M6Uqn+Eje4kHMK80dtF3JCXC4ykBgQG4Fe06QRhQ=
+golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
