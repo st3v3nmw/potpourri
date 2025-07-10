@@ -1,4 +1,4 @@
-module github.com/st3v3nmw/trying-starlark
+module github.com/st3v3nmw/potpourri/trying-starlark
 
 go 1.24.4
 
